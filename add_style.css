@@ -1,0 +1,90 @@
+.background-primary {
+  background-color: #006462;
+}
+
+.menu-top__link {
+  display: none;
+}
+
+.menu-base__link {
+  color: #006462;
+}
+
+.menu-base__link:hover {
+  color: #006462;
+}
+
+.menu-base__link::after {
+  border-color: #c84850;
+}
+
+.padding-vertical-10 {
+  padding-top: 1rem!important;
+  padding-bottom: 1rem!important;
+}
+
+@media screen and (min-width: 40em) {
+  .menu-base {
+      text-align: center
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .menu-base {
+      text-align: right
+  }
+}
+
+h1::after,
+h2::after {
+  background: #c84850;
+}
+
+.button.success {
+  background-color: #006462;
+}
+
+.intro {
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 70vh;
+}
+
+.intro__media {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+overflow: hidden;
+background: #006462;
+}
+
+.intro__media::before {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, .5);
+z-index: 5;
+}
+
+.intro__media-content {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+min-width: 100%;
+min-height: 100%;
+object-fit: cover ;
+}
+
+.intro__content {
+z-index: 10;
+color: #fff;
+text-align: center;
+}

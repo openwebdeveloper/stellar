@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru">
+  <head>
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="copyright" content="Создание сайтов - Cetera Labs, www.cetera.ru, 2016">
+    <meta name="author" content="Cetera Labs, http://www.cetera.ru/, создание сайтов, поддержка сайтов, продвижение сайтов">
+    <meta name="cmsmagazine" content="f21b68cb09efe1a7161ca2caaacaf749">
+	
+	<title>Гостиница «НАЗВАНИЕ ГОСТИНИЦЫ»</title>
+	<meta name="description" content="Создайте сайт бесплатно за 1 минуту, получите домен .ru в подарок, закажите продвижение и индивидуальный дизайн у автора системы" />
+	<meta name="keywords" content="создать сайт бесплатно" />
+	<link rel="stylesheet" href="/themes/corp-2018/css/style.css">
+<link rel="stylesheet" href="/uploads/20230609/add_style.css">
+<link rel="stylesheet" href="/cms/css/global.css">
+	<meta property="og:title" content="Гостиница «НАЗВАНИЕ ГОСТИНИЦЫ»"/>
+<meta property="og:url" content="http://hotel-chalet.fastsite.ru//"/>
+<meta property="og:image" content="http://hotel-chalet.fastsite.ru/themes/hotel-23/images/logo.png"/>
+<meta property="og:description" content="Создайте сайт бесплатно за 1 минуту, получите домен .ru в подарок, закажите продвижение и индивидуальный дизайн у автора системы"/>
+<script>
+    "use strict";
+    document.addEventListener('DOMContentLoaded', function () {
+        jQuery(".x_widget_4").slick({
+            infinite: true,
+            dots: false,
+            arrows: true,
+            slidesPerRow: 1,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 5000,
+            autoplayHoverPause: true,
+            fade: true,
+            swipeToSlide: true,
+            prevArrow: '<span><i class="slick-prev fas fa-angle-left fa-4x"> </i></span>',
+            nextArrow: '<span><i class="slick-next fas fa-angle-right fa-4x"> </i></span>'
+        });
+	});
+</script>
+
+<script>	 
+				
+</script>	
+	
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/corp-2018/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/corp-2018/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="194x194" href="/themes/corp-2018/images/favicon/favicon-194x194.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/themes/corp-2018/images/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/corp-2018/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/themes/corp-2018/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/themes/corp-2018/images/favicon/safari-pinned-tab.svg" color="#5f4b8b">
+    <link rel="shortcut icon" href="/themes/corp-2018/images/favicon/favicon.ico">
+    <meta name="msapplication-config" content="/themes/corp-2018/images/favicon/browserconfig.xml">
+	
+	<meta name="msapplication-TileColor" content="#5f4b8b">
+    <meta name="theme-color" content="#5f4b8b">
+	
+		
+    </head>
+  <body>
+    
+	
+    <div class="padding-top-4 padding-bottom-2 text-size-small background-primary">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="small-24 large-9 cell medium-order-2">
+            <div class="padding-bottom-2 text-left medium-text-center large-text-right">
+				<span class="text-white hide-for-medium" data-responsive-toggle="responsive-menu" data-hide-for="medium"><span data-toggle><i class="fas fa-bars fa-lg"></i></span>&nbsp;&nbsp;&nbsp;</span>
+				<a class="text-white" href="tel:+79280351318" title="Позвонить"><strong><i class="fas fa-phone fa-lg hide-for-small-only"></i>&nbsp; +7 (928) 035-13-18</strong></a>&nbsp;&nbsp;&nbsp;
+				<a class="text-white" href="mailto:chalet@stellarhotels.ru" title="Написать"><strong><i class="far fa-envelope fa-lg hide-for-small-only"></i>&nbsp; chalet@stellarhotels.ru</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a class="text-white" href="#" title="Поиск" data-toggle="search"><i class="fas fa-lg fa-search"></i></a></div>
+          </div>
+		            <div class="small-24 large-15 cell medium-order-1">
+            <div class="padding-bottom-2" id="responsive-menu">
+              <ul class="menu-top">
+
+	    
+    <li class="menu-top__item">    
+        <a href="http://fastsite.ru/" class="menu-top__link">Демонстрационный сайт, создайте свой БЕСПЛАТНО</a> 
+    </li>
+    
+        
+</ul>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+		  	
+        </div>
+      </div>
+    </div>
+    <div class="grid-container">
+      <div class="grid-x grid-padding-x">
+        <div class="small-24 large-10 large-offset-14 cell">
+          <div class="dd" id="search" data-toggler=".dd_show">
+            <div class="dd__content padding-6 background-main">
+              <form action="/search/" method="post" data-abide="" novalidate="novalidate">
+                <div class="input-group">
+                  <input class="input-group-field" name="query" type="text" placeholder="Поиск">
+                  <div class="input-group-button">
+                    <button class="button primary" type="submit" name="Найти"><i class="fas fa-search fa-inverse"></i></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>	
+	
+    <div class="background-main padding-vertical-10">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="cell auto text-center large-text-left align-self-middle"><a href="/" title="FastSite.ru"><img src="/uploads/20230609/logo_crop.svg" style="max-width: 15rem;" alt="FastSite.ru" title="FastSite.ru"></a></div>
+          <div class="small-4 cell hide-for-medium align-self-middle text-center">
+            <div data-responsive-toggle="menu" data-hide-for="medium">
+              <div class="text-primary" data-toggle><i class="fas fa-bars fa-2x"></i></div>
+            </div>
+          </div>
+		            <div class="small-24 large-18 large-offset-2 cell align-self-middle" id="menu">
+            <div class="margin-bottom-6 hide-for-large"></div>
+			<ul class="menu-base">
+
+	    
+    <li class="menu-base__item">    
+        <a href="/about-us/" class="menu-base__link" title="О нас">О нас</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/suites/" class="menu-base__link" title="Номера">Номера</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/prices/" class="menu-base__link" title="Цены">Цены</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/services/" class="menu-base__link" title="Услуги">Услуги</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/photo/" class="menu-base__link" title="Фотогалерея">Фотогалерея</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/news/" class="menu-base__link" title="Новости">Новости</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/reviews/" class="menu-base__link" title="Отзывы">Отзывы</a> 
+		    </li>
+    
+        
+    <li class="menu-base__item">    
+        <a href="/contacts/" class="menu-base__link" title="Контакты">Контакты</a> 
+		    </li>
+    
+        
+</ul>          </div>
+		          </div>
+      </div>
+    </div>
+
+	
+		<div class="x_widget_4 carousel-main background-main">
+
+      <div class="carousel-main__item carousel-main__darken" style="background-image: url(/uploads/20230609/main.jpg	); background-size: cover;">
+        <div class="grid-container">
+          <div class="grid-x grid-padding-x align-center carousel-main__content">
+            <div class="cell medium-14 align-self-middle text-left medium-text-center text-white">
+              <h2>Stellar Collection Chalet</h2>
+              <p>Все дело в деталях.</p>
+
+<p><a class="button success" href="/reserve-suite/">Забронировать номер</a></p>
+
+<div class="simple-translate-system-theme" id="simple-translate">
+<div>
+<div class="simple-translate-button isShow" style="background-image: url(&quot;moz-extension://7aff5ffe-e734-4431-b207-218e40cac701/icons/512.png&quot;); height: 22px; width: 22px; top: 38px; left: 8px;">&nbsp;</div>
+
+<div class="simple-translate-panel " style="width: 300px; height: 200px; top: 0px; left: 0px; font-size: 13px;">
+<div class="simple-translate-result-wrapper" style="overflow: hidden;">
+<div class="simple-translate-move" draggable="true">&nbsp;</div>
+
+<div class="simple-translate-result-contents">
+<p class="simple-translate-result" dir="auto">&nbsp;</p>
+
+<p class="simple-translate-candidate" dir="auto">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="carousel-main__item carousel-main__darken" style="background-image: url(/themes/hotel-23/images/25.jpg	); background-size: cover;">
+        <div class="grid-container">
+          <div class="grid-x grid-padding-x align-center carousel-main__content">
+            <div class="cell medium-14 align-self-middle text-left medium-text-center text-white">
+              <h2>Pro ceteros menandri ei</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis.</p>
+
+<p><a class="button secondary" href="/reserve-suite/">Забронировать номер</a></p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="carousel-main__item carousel-main__darken" style="background-image: url(/themes/hotel-23/images/26.jpg	); background-size: cover;">
+        <div class="grid-container">
+          <div class="grid-x grid-padding-x align-center carousel-main__content">
+            <div class="cell medium-14 align-self-middle text-left medium-text-center text-white">
+              <h2>Vel cu labore placerat partiendo</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis.</p>
+
+<p><a class="button alert" href="/reserve-suite/">Забронировать номер</a></p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+	  
+</div>
+
+
+	<div class="x-cetera-widget" data-class="Cetera.fo.Section" data-id="30" data-type="materials">
+<div class="padding-top-12 padding-bottom-6">
+  <div class="grid-container">
+	<div class="grid-x grid-padding-x small-up-1 medium-up-3" data-equalizer="x_widget_5-eq" data-equalize-on="medium">
+		  <div class="cell">
+		<div class="background-main radius text-center padding-6 margin-bottom-6" data-equalizer-watch="x_widget_5-eq"><br>
+		  <div class="margin-bottom-6"><img src="/themes/hotel-23/images/about/cr.png" alt="Комфортабельные номера" style="max-width:7rem;"></div>
+		  <h4 class="margin-bottom-3">Комфортабельные номера</h4>
+		  <div class="margin-bottom-6"><p>В каждом номере кондиционер, телевизор, холодильник, санузел с душем и балкон</p>
+</div>
+		</div>
+	  </div>
+    	  <div class="cell">
+		<div class="background-main radius text-center padding-6 margin-bottom-6" data-equalizer-watch="x_widget_5-eq"><br>
+		  <div class="margin-bottom-6"><img src="/themes/hotel-23/images/about/eco.png" alt="Доступные цены" style="max-width:7rem;"></div>
+		  <h4 class="margin-bottom-3">Доступные цены</h4>
+		  <div class="margin-bottom-6"><p>Современная комфортабельная гостиница с доступными ценами, высоким уровнем обслуживания и хорошо развитой инфраструктурой</p>
+</div>
+		</div>
+	  </div>
+    	  <div class="cell">
+		<div class="background-main radius text-center padding-6 margin-bottom-6" data-equalizer-watch="x_widget_5-eq"><br>
+		  <div class="margin-bottom-6"><img src="/themes/hotel-23/images/about/list.png" alt="Широкий спектр услуг" style="max-width:7rem;"></div>
+		  <h4 class="margin-bottom-3">Широкий спектр услуг</h4>
+		  <div class="margin-bottom-6"><p>Центр красоты и здоровья, организация встреч и семинаров, экскурсионные услуги</p>
+</div>
+		</div>
+	  </div>
+    	</div>
+  </div>
+</div>
+</div>
+
+		
+	<div class="x-cetera-widget" data-class="Cetera.fo.Section" data-id="27" data-type="materials">
+ 	
+					<div class="padding-top-12 padding-bottom-6">
+		  <div class="grid-container">
+			<div class="grid-x grid-padding-x">
+			  <div class="small-24 medium-16 cell">
+				<h2>Наши номера</h2>
+			  </div>
+								<div class="small-24 medium-8 cell medium-text-right"><a class="button" href="/suites/">Все номера</a></div>
+							</div>
+		  </div>
+		  <div class="grid-container" id="x_widget_6-wrapper">  
+			
+		 	
+
+		<div class="grid-x grid-padding-x small-up-1 medium-up-2 large-up-3" data-equalizer="x_widget_6-eq" data-equalize-by-row="true">
+				  <div class="cell margin-bottom-6 text-left" data-equalizer-watch="x_widget_6-eq">
+			<div class="grid-x">
+			  <div class="cell small-5 medium-24"><a href="/suites/suite-1" title=""><img class="margin-bottom-3" src="/imagetransform/width_450_height_300_fit_3/themes/hotel-23/images/room/room-1-min.jpg" alt="Lorem ipsum"></a></div>			  <div class="cell small-18 medium-24 small-offset-1 medium-offset-0">
+				<h5 class="margin-bottom-3"><a href="/suites/suite-1" title="">Lorem ipsum</a></h5>
+			  </div>
+			</div>
+			<div class="show-for-medium"><p>Lorem ipsum dolor sit amet.</p>
+</div>
+		  </div>
+				  <div class="cell margin-bottom-6 text-left" data-equalizer-watch="x_widget_6-eq">
+			<div class="grid-x">
+			  <div class="cell small-5 medium-24"><a href="/suites/suite-2" title=""><img class="margin-bottom-3" src="/imagetransform/width_450_height_300_fit_3/themes/hotel-23/images/room/room-4-min.jpg" alt="Dolor sit"></a></div>			  <div class="cell small-18 medium-24 small-offset-1 medium-offset-0">
+				<h5 class="margin-bottom-3"><a href="/suites/suite-2" title="">Dolor sit</a></h5>
+			  </div>
+			</div>
+			<div class="show-for-medium"><p>Movet evertitur ut cum, paulo iracundia has ei.</p>
+</div>
+		  </div>
+				  <div class="cell margin-bottom-6 text-left" data-equalizer-watch="x_widget_6-eq">
+			<div class="grid-x">
+			  <div class="cell small-5 medium-24"><a href="/suites/suite-3" title=""><img class="margin-bottom-3" src="/imagetransform/width_450_height_300_fit_3/themes/hotel-23/images/room/room-7-min.jpg" alt="Amet movet"></a></div>			  <div class="cell small-18 medium-24 small-offset-1 medium-offset-0">
+				<h5 class="margin-bottom-3"><a href="/suites/suite-3" title="">Amet movet</a></h5>
+			  </div>
+			</div>
+			<div class="show-for-medium"><p>Case corpora ex quo. Per et soleat suscipit.</p>
+</div>
+		  </div>
+				</div>
+
+				
+		
+			</div>		
+		  
+		</div>
+		 		
+		 		
+	  
+
+</div>
+
+		
+	<div class="x-cetera-widget" data-class="Cetera.fo.Section" data-id="6" data-type="materials">
+
+<div class="padding-top-12 padding-bottom-12 background-main">
+  <div class="grid-container">
+	<div class="grid-x grid-padding-x">
+	  <div class="small-24 medium-16 cell">
+		<h2>Новости</h2>
+	  </div>
+		<div class="small-24 medium-8 cell medium-text-right"><a class="button" href="/news/">Все новости</a></div>
+		</div>
+  </div>  
+  <div class="grid-container">
+  
+  
+	<div class="grid-x grid-padding-x small-up-1 medium-up-2 large-up-4" data-equalizer="events" data-equalize-by-row="true">
+		  <div class="cell margin-bottom-6">
+		<div class="background-white radius padding-6" data-equalizer-watch="events">
+		  <div class="margin-bottom-1"><strong>12.04.2016</strong></div>
+		  <h6 class="margin-bottom-6"><a href="/news/news-4" title="">Impetus regione ad eos</a></h6>
+		  <div class="text-tertiary"><p>Impetus regione ad eos. Recusabo interpretaris te nec.&nbsp;Vide deleniti sed an.</p>
+</div>
+		</div>
+	  </div>
+		  <div class="cell margin-bottom-6">
+		<div class="background-white radius padding-6" data-equalizer-watch="events">
+		  <div class="margin-bottom-1"><strong>12.04.2016</strong></div>
+		  <h6 class="margin-bottom-6"><a href="/news/news-3" title="">Quo ut blandit moderatius</a></h6>
+		  <div class="text-tertiary"><p>Quo ut blandit moderatius. Impedit singulis voluptatum mel in.</p>
+</div>
+		</div>
+	  </div>
+		  <div class="cell margin-bottom-6">
+		<div class="background-white radius padding-6" data-equalizer-watch="events">
+		  <div class="margin-bottom-1"><strong>12.04.2017</strong></div>
+		  <h6 class="margin-bottom-6"><a href="/news/news-2" title="">Equidem abhorreant ex eum</a></h6>
+		  <div class="text-tertiary"><p>Equidem abhorreant ex eum, ut persius labores fabellas mei.</p>
+</div>
+		</div>
+	  </div>
+		  <div class="cell margin-bottom-6">
+		<div class="background-white radius padding-6" data-equalizer-watch="events">
+		  <div class="margin-bottom-1"><strong>13.05.2017</strong></div>
+		  <h6 class="margin-bottom-6"><a href="/news/news-1" title="">Per natum legimus ne</a></h6>
+		  <div class="text-tertiary"><p>Per natum legimus ne, ius ne idque alienum.</p>
+</div>
+		</div>
+	  </div>
+		</div>
+	
+  	
+  </div>
+</div>
+
+</div>
+
+		
+	<div class="intro">
+    <div class="intro__media">
+        <div class="resposive-embed">
+            <iframe class="intro__media-content" src="https://www.youtube.com/embed/BXhUU89NiXc?modestbranding=1&start=64&end=80&autoplay=1&loop=1&showinfo=0&rel=0&iv_load_policy=3&fs=0&controls=0&disablekb=1&playlist=BXhUU89NiXc;" width="560" height="315" title="Stunning vidChalet in Krasnaya Polyana" frameborder="0" allow="autoplay"></iframe>
+        </div>
+    </div>
+    <div class="intro__content">
+        <h1>Добро пожаловать в Stellar Collection Chalet</h1>
+    </div>
+</div>
+<div class="intro">
+    <div class="intro__media">
+        <div class="resposive-embed">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BXhUU89NiXc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="intro__content">
+        <h1>Добро пожаловать в Stellar Collection Chalet</h1>
+    </div>
+</div>
+    
+
+	
+    <div class="padding-top-12 padding-bottom-6 background-quaternary text-white">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="small-24 medium-12 large-6 medium-order-1 large-order-1 cell margin-bottom-6"><a href="/" title="FastSite.ru"><img src="/themes/corp-2018/images/logo_white.svg" style="max-width: 10rem;" alt="FastSite.ru" title="FastSite.ru"></a></div>
+          		  <nav class="small-24 medium-12 large-6 medium-order-3 large-order-2 cell margin-bottom-4">
+            <h6 class="margin-bottom-3">Навигация</h6>
+			            <div class="margin-bottom-2"><a class="text-tertiary" href="/about-us/" title="О нас"><strong>О нас</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/suites/" title="Номера"><strong>Номера</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/prices/" title="Цены"><strong>Цены</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/services/" title="Услуги"><strong>Услуги</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/photo/" title="Фотогалерея"><strong>Фотогалерея</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/news/" title="Новости"><strong>Новости</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/reviews/" title="Отзывы"><strong>Отзывы</strong></a></div>
+            <div class="margin-bottom-2"><a class="text-tertiary" href="/contacts/" title="Контакты"><strong>Контакты</strong></a></div>
+          </nav>
+		            <div class="small-24 medium-12 large-6 medium-order-2 large-order-3 cell margin-bottom-3">
+             <h6 class="margin-bottom-3"> Наш адрес</h6><p>354392, Россия, Краснодарский край, Красная Поляна, ул. Березовая, 132</p>
+          </div>
+          <div class="small-24 medium-12 large-6 medium-order-4 large-order-4 cell margin-bottom-3">
+            <h6 class="margin-bottom-3"> Телефон</h6>
+            <div class="margin-bottom-3"><a class="text-tertiary" href="tel:+79280351318" title="Позвонить">+7 (928) 035-13-18</a></div>
+            <h6 class="margin-bottom-3"> E-mail</h6>
+            <div class="margin-bottom-3"><a class="text-tertiary" href="mailto:chalet@stellarhotels.ru" title="Написать">chalet@stellarhotels.ru</a></div>
+          </div>
+        </div>
+      </div>
+	  <div class="grid-container"><div class="grid-x grid-padding-x"><div class="cell text-center text-size-small margin-bottom-6"><a class="fa-stack fa-lg text-tertiary" href="https://vk.com/ceteralabs" title=""><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-vk fa-stack-1x fa-inverse"></i></a>&nbsp;<a class="fa-stack fa-lg text-tertiary" href="https://twitter.com/ceteralabs" title=""><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></a>&nbsp;<a class="fa-stack fa-lg text-tertiary" href="https://facebook.com/ceteralabs" title=""><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></a>&nbsp;<a class="fa-stack fa-lg text-tertiary" href="https://ok.ru/" title=""><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-odnoklassniki fa-stack-1x fa-inverse"></i></a>&nbsp;<a class="fa-stack fa-lg text-tertiary" href="https://www.instagram.com/" title=""><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></a>&nbsp;<a class="fa-stack fa-lg text-tertiary" href="https://plus.google.com/" title=""><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-google-plus fa-stack-1x fa-inverse"></i></a></div></div></div>      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="cell text-center text-size-small">
+            &nbsp;&nbsp;
+            &copy;&nbsp;<a class="text-tertiary" href="/" title="FastSite.ru">Fastsite</a>,&nbsp;2002–2019
+            &nbsp;&nbsp; &nbsp;&nbsp;
+            <a class="text-tertiary" target="_blank" href="https://cetera.ru/" title="Создание интернет-магазина">Создание интернет-магазина</a>&nbsp;—&nbsp;Cetera&nbsp;Labs&nbsp;&nbsp; &nbsp;&nbsp;
+			<a class="text-tertiary" target="_blank" href="https://www.cetera.ru/support/default.php?project=FSC&amp;lang=ru&amp;page=//hotel-chalet.fastsite.ru/" title="Сообщить об ошибке">Сообщить об ошибке</a>&nbsp;&nbsp; &nbsp;&nbsp;
+			<a class="text-tertiary" target="_blank" href="/about/privacy_statement" title="Политика конфиденциальности">Политика конфиденциальности</a>&nbsp;&nbsp;
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/themes/corp-2018/js/lib.js"></script>
+<script src="/themes/corp-2018/js/app.js"></script>
+<script src="/cms/js/vendor.js"></script>
+<script src="/cms/config.php"></script>
+<script src="/cms/js/admin-panel.js"></script>
+  </body>
+</html>
